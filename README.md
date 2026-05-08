@@ -37,8 +37,8 @@
 <a href="https://hits.sh/github.com/EnVisione/">
   <img src="https://hits.sh/github.com/EnVisione.svg?style=for-the-badge&label=HITS&color=7A0000&labelColor=0D0D10" alt="hits" />
 </a>
-<img src="https://img.shields.io/github/followers/EnVisione?style=for-the-badge&logo=github&label=FOLLOWERS&color=FF6B35&labelColor=0D0D10&logoColor=FF6B35" alt="followers" />
-<img src="https://img.shields.io/github/stars/EnVisione?style=for-the-badge&logo=github&label=STARS&color=FFD96A&labelColor=0D0D10&logoColor=FFD96A" alt="stars" />
+<img src="https://img.shields.io/github/followers/EnVisione?style=for-the-badge&logo=github&label=FOLLOWERS&color=FF3B3B&labelColor=0D0D10&logoColor=FF3B3B" alt="followers" />
+<img src="https://img.shields.io/github/stars/EnVisione?style=for-the-badge&logo=github&label=STARS&color=FF3B3B&labelColor=0D0D10&logoColor=FF3B3B" alt="stars" />
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <a href="https://github.com/EnVisione">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF6B35&center=false&vCenter=true&multiline=true&repeat=true&width=820&height=160&lines=%24+cat+./about.md;%3E+hey%2C+i%27m+envy.+i+build+for+the+web+by+day%2C;%3E+and+for+minecraft+by+night.;%3E+shipping+mods+on+curseforge%2C+tools+on+rice-labs%2C;%3E+and+writing+JVM+bytecode+for+the+joy+of+it.;%24+_"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF3B3B&center=false&vCenter=true&multiline=true&repeat=true&width=820&height=160&lines=%24+cat+./about.md;%3E+hey%2C+i%27m+envy.+i+build+for+the+web+by+day%2C;%3E+and+for+minecraft+by+night.;%3E+shipping+mods+on+curseforge%2C+tools+on+rice-labs%2C;%3E+and+writing+JVM+bytecode+for+the+joy+of+it.;%24+_"
     alt="terminal about block"
   />
 </a>
@@ -85,8 +85,8 @@
 <br />
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/minecraft/62B47A" width="44" alt="minecraft" align="left" />
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MINECRAFT-62B47A?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0D0D10" height="40" alt="minecraft" />
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,idea&theme=dark" alt="jvm" />
 </p>
 
@@ -112,10 +112,10 @@
 
 <br />
 
-<!-- ════════════  PROJECTS · two big cards  ═══════════════════════════════ -->
+<!-- ════════════  PROJECTS · two big cards (logo-led)  ═══════════════════ -->
 
 <h2 align="left">
-  <img src="https://img.shields.io/badge/02-FF6B35?style=flat-square&label=&color=FF6B35" />
+  <img src="https://img.shields.io/badge/02-FF3B3B?style=flat-square&label=&color=FF3B3B" />
   &nbsp;ports&nbsp;of&nbsp;call
 </h2>
 
@@ -123,8 +123,9 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://www.curseforge.com/members/envyonmymind/projects">
-        <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:F16436,50:B22222,100:7A0000&height=160&text=CurseForge&fontColor=ffffff&fontSize=42&fontAlignY=58&desc=mods+%26+resource+packs&descSize=14&descAlignY=82" width="100%" alt="CurseForge" />
+        <img src="https://cdn.simpleicons.org/curseforge/F16436" height="92" alt="CurseForge" />
       </a>
+      <h3 align="center">CurseForge</h3>
       <p align="center">
         <code>/members/envyonmymind/projects</code><br />
         every mod & pack i've shipped — downloads, changelogs, comments.
@@ -139,8 +140,9 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://rice-labs.enviouse.com/envy">
-        <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF3B3B,50:B30000,100:7A0000&height=160&text=Rice+Labs&fontColor=ffffff&fontSize=42&fontAlignY=58&desc=tools+%26+experiments&descSize=14&descAlignY=82" width="100%" alt="Rice Labs" />
+        <img src="https://rice-labs.enviouse.com/favicon.svg" height="92" alt="Rice Labs" />
       </a>
+      <h3 align="center">Rice Labs</h3>
       <p align="center">
         <code>rice-labs.enviouse.com/envy</code><br />
         my personal sandbox — works-in-progress, write-ups, side tools.
@@ -158,69 +160,29 @@
 
 <br />
 
-<!-- ════════════  TELEMETRY · summary cards (action-generated, never down)  ═ -->
+<!-- ════════════  TELEMETRY · clean, transparent, red+black only  ═══════ -->
 
 <h2 align="left">
-  <img src="https://img.shields.io/badge/03-FFD96A?style=flat-square&label=&color=FFD96A" />
+  <img src="https://img.shields.io/badge/03-FF3B3B?style=flat-square&label=&color=FF3B3B" />
   &nbsp;telemetry
 </h2>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/EnVisione">
         <img
-          src="https://raw.githubusercontent.com/EnVisione/EnVisione/main/profile-summary-card-output/monokai/3-stats.svg"
+          src="https://github-stats-alpha.vercel.app/api/?username=EnVisione&cc=0d0d10&tc=ff3b3b&ic=ff3b3b&bc=0d0d10"
           alt="stats"
           width="100%"
         />
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/EnVisione">
         <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=EnVisione&hide_border=true&background=0D0D10&stroke=0D0D10&ring=FF3B3B&fire=FF6B35&currStreakLabel=FF3B3B&sideLabels=C9C9D1&currStreakNum=FFD96A&dates=8A8A95&sideNums=C9C9D1"
+          src="https://streak-stats.demolab.com?user=EnVisione&hide_border=true&background=00000000&stroke=FF3B3B&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B&sideLabels=FF3B3B&currStreakNum=FFFFFF&dates=7A0000&sideNums=FFFFFF"
           alt="streak"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/EnVisione">
-        <img
-          src="https://raw.githubusercontent.com/EnVisione/EnVisione/main/profile-summary-card-output/monokai/1-repos-per-language.svg"
-          alt="repos per language"
-          width="100%"
-        />
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/EnVisione">
-        <img
-          src="https://raw.githubusercontent.com/EnVisione/EnVisione/main/profile-summary-card-output/monokai/2-most-commit-language.svg"
-          alt="most commit language"
-          width="100%"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/EnVisione">
-        <img
-          src="https://raw.githubusercontent.com/EnVisione/EnVisione/main/profile-summary-card-output/monokai/4-productive-time.svg"
-          alt="productive time"
-          width="100%"
-        />
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/EnVisione">
-        <img
-          src="https://github-profile-trophy.vercel.app/?username=EnVisione&theme=darkhub&no-frame=true&no-bg=true&column=4&row=2&margin-w=4&margin-h=4"
-          alt="trophies"
           width="100%"
         />
       </a>
@@ -228,7 +190,7 @@
   </tr>
 </table>
 
-<!-- ════════════  3D CONTRIB · isometric calendar  ════════════════════════ -->
+<!-- ════════════  3D COMMIT SKYLINE · black-to-red shuffle  ══════════════ -->
 
 <h2 align="left">
   <img src="https://img.shields.io/badge/04-FF3B3B?style=flat-square&label=&color=FF3B3B" />
@@ -236,18 +198,14 @@
 </h2>
 
 <a href="https://github.com/EnVisione">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnVisione/EnVisione/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnVisione/EnVisione/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <img alt="3d commit skyline" src="https://raw.githubusercontent.com/EnVisione/EnVisione/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-  </picture>
+  <img alt="3d commit skyline" src="https://raw.githubusercontent.com/EnVisione/EnVisione/main/profile-3d-contrib/profile-black-red-shuffle.svg" width="100%" />
 </a>
 
 <!-- ════════════  ACTIVITY GRAPH  ═════════════════════════════════════════ -->
 
 <a href="https://github.com/EnVisione">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EnVisione&bg_color=0D0D10&color=FF3B3B&line=FF6B35&point=FFD96A&area=true&area_color=FF3B3B&hide_border=true&custom_title=//+commit+activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EnVisione&bg_color=00000000&color=FF3B3B&line=FF3B3B&point=FFFFFF&area=true&area_color=FF3B3B&hide_border=true&custom_title=//+commit+activity"
     alt="activity"
     width="100%"
   />
