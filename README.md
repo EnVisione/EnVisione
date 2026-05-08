@@ -1,16 +1,8 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════════════╗
-  ║  GITHUB PROFILE README · @EnVisione                                   ║
-  ║  Drop at:  github.com/EnVisione/EnVisione/README.md                ║
-  ║  (repo name must match your username — that's how GitHub finds it)       ║
-  ╚══════════════════════════════════════════════════════════════════════════╝
--->
-
 <!-- ════════════  HEADER · animated wave banner  ═══════════════════════════ -->
 
 <a href="https://github.com/EnVisione">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:6D5BFF,100:00E0FF&height=220&section=header&text=EnVisione&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=full-stack%20web%20dev%20%E2%80%A2%20java%20modder%20in%20training&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:6D5BFF,100:00E0FF&height=220&section=header&text=EnVisione&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=full-stack%20web%20dev%20%E2%80%A2%20java%20modder&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn"
     alt="EnVisione"
     width="100%"
   />
