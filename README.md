@@ -160,10 +160,24 @@
 
 <br />
 
+<h2 align="left">
+  <img src="https://img.shields.io/badge/03-FF3B3B?style=flat-square&label=&color=FF3B3B" />
+  &nbsp;how&nbsp;i&nbsp;work
+</h2>
+
+<p>
+  I keep public project pages easy to navigate and maintain each supported release on its own version branch.
+  For example, <code>neoforge-1.21.1/1.2.0</code> and <code>forge-1.20.1/1.0.1</code> can evolve without overwriting each other.
+</p>
+
+<p>
+  I develop changes in a private work repository. When a change is ready, I prepare a focused public branch and open a pull request against the right version. Tests and code review happen before the merge. This keeps release branches readable and gives other developers a clear place to discuss a change.
+</p>
+
 <!-- ════════════  TELEMETRY · clean, transparent, red+black only  ═══════ -->
 
 <h2 align="left">
-  <img src="https://img.shields.io/badge/03-FF3B3B?style=flat-square&label=&color=FF3B3B" />
+  <img src="https://img.shields.io/badge/04-FF3B3B?style=flat-square&label=&color=FF3B3B" />
   &nbsp;telemetry
 </h2>
 
@@ -193,7 +207,7 @@
 <!-- ════════════  3D COMMIT SKYLINE · black-to-red shuffle  ══════════════ -->
 
 <h2 align="left">
-  <img src="https://img.shields.io/badge/04-FF3B3B?style=flat-square&label=&color=FF3B3B" />
+  <img src="https://img.shields.io/badge/05-FF3B3B?style=flat-square&label=&color=FF3B3B" />
   &nbsp;commit&nbsp;skyline
 </h2>
 
